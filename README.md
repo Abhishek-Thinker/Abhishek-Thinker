@@ -1,0 +1,3 @@
+- - 👋 Hi, I’m @Abhishek-Thinker
+- 👀 I’m interested in Verilog, MATLAB, C
+- 🌱 I’m currently learning Verilog
